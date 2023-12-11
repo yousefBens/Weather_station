@@ -1,0 +1,13 @@
+../Core/Src/Ecran.c:42:6:AfficherCase	48	static
+../Core/Src/Ecran.c:64:6:AfficherCaseD	48	static
+../Core/Src/Ecran.c:88:6:AfficherBouton	16	static
+../Core/Src/Ecran.c:96:6:init_page	56	static
+../Core/Src/Ecran.c:123:6:DessinerAxeX	16	static
+../Core/Src/Ecran.c:143:6:DessinerAxeXD	16	static
+../Core/Src/Ecran.c:165:6:DessinerAxeY	8	static
+../Core/Src/Ecran.c:174:6:DessinerGraphePl	144	static
+../Core/Src/Ecran.c:201:6:DessinerGraphe	144	static
+../Core/Src/Ecran.c:227:6:DessinerGrapheH	144	static
+../Core/Src/Ecran.c:253:6:DessinerGrapheD	136	static
+../Core/Src/Ecran.c:295:6:DessinerGrapheP	128	static
+../Core/Src/Ecran.c:320:6:ChangerDePage	184	static
