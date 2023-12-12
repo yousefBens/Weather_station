@@ -1,3 +1,0 @@
-../Core/Src/pression.c:9:17:platform_write	40	static
-../Core/Src/pression.c:15:17:platform_read	40	static
-../Core/Src/pression.c:23:7:MesurePression	16	static

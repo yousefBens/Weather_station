@@ -1,8 +1,0 @@
-../Core/Src/H_T_Capt.c:36:16:platform_write	40	static
-../Core/Src/H_T_Capt.c:46:16:platform_read	40	static
-../Core/Src/H_T_Capt.c:64:7:linear_interpolation	16	static
-../Core/Src/H_T_Capt.c:75:7:Humedite	64	static
-../Core/Src/H_T_Capt.c:127:6:affich_H	8	static
-../Core/Src/H_T_Capt.c:132:7:Temperature	64	static
-../Core/Src/H_T_Capt.c:177:6:affiche_T	8	static
-../Core/Src/H_T_Capt.c:183:1:__io_putchar	16	static
